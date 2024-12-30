@@ -1,0 +1,25 @@
+first make a repo.
+then into local system 
+then create file
+add file adds file into git but not visible in git account.
+commit file - final commit
+push file - upload local into git
+
+/////
+
+git add <file name>
+git commit -m "something"
+git push
+
+/// branch
+got to folder
+git branch
+git branch -c<branch name>
+checkout <branch name>
+
+06
+///
+
+docker pull node/ php - downloads the image.
+docker run -it php/node  - runs container of image.
+then node 
